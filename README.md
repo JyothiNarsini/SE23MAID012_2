@@ -63,25 +63,38 @@ The program will print the following results to the console:
 ## Graphs of the syncronization technique(Threads vs Throughput):
 
 1. *Coarse-Grain Synchronization*:
-   
+![image](https://github.com/JyothiNarsini/SE23MAID012_2/assets/88646255/f18c604d-08a8-4fa4-9023-bde94090db87)
+![image](https://github.com/JyothiNarsini/SE23MAID012_2/assets/88646255/760b4037-ac54-46fa-8d77-bd9d1d014534)
+![image](https://github.com/JyothiNarsini/SE23MAID012_2/assets/88646255/7c2e6b54-4ac3-45d4-88fd-ef521d6a7236)
+
    
 
 2. *Fine-Grain Synchronization*:
+![image](https://github.com/JyothiNarsini/SE23MAID012_2/assets/88646255/ee3570b2-fab7-4b4f-a54b-2194e9867b45)
+![image](https://github.com/JyothiNarsini/SE23MAID012_2/assets/88646255/dbeb33fa-0ce7-4c91-b6ab-1d1e7756aec1)
+![image](https://github.com/JyothiNarsini/SE23MAID012_2/assets/88646255/74bce540-7976-4ae0-88d4-7279e9641e44)
 	
 
 
 3. *Optimistic Synchronization*:
+![image](https://github.com/JyothiNarsini/SE23MAID012_2/assets/88646255/3547ade8-44de-4457-b192-b37b54eb43ad)
+![image](https://github.com/JyothiNarsini/SE23MAID012_2/assets/88646255/258ff16a-98dd-4d3a-9529-67de1f1e4a08)
+![image](https://github.com/JyothiNarsini/SE23MAID012_2/assets/88646255/2fbf1fec-0a22-4b84-b44d-4c96dbaba807)
    
 
 
 5. *Lazy Synchronization*:
-   
+![image](https://github.com/JyothiNarsini/SE23MAID012_2/assets/88646255/a00e08d2-9263-4c5a-b0f4-1dfce50b702a)
+![image](https://github.com/JyothiNarsini/SE23MAID012_2/assets/88646255/74e29339-60f2-412f-a2ae-292e064ce793)
+![image](https://github.com/JyothiNarsini/SE23MAID012_2/assets/88646255/d026a19e-36fd-426b-8c9d-93d8cc41cca0)
+
 
 
 7. *Non-blocking Synchronization*:
-   ![image](https://github.com/JyothiNarsini/SE23MAID012_2/assets/88646255/d77eca97-3f53-49bf-a062-3d1d1d41f059)
+![image](https://github.com/JyothiNarsini/SE23MAID012_2/assets/88646255/d77eca97-3f53-49bf-a062-3d1d1d41f059)
+![image](https://github.com/JyothiNarsini/SE23MAID012_2/assets/88646255/8d2e890f-faa4-4087-9962-a462dcda007a)
+![image](https://github.com/JyothiNarsini/SE23MAID012_2/assets/88646255/900a496a-89c4-4ba7-858e-add4f537c77e)
 
-   
 
 ## Conclusion
 
