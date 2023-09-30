@@ -79,7 +79,8 @@ The program will print the following results to the console:
 
 
 7. *Non-blocking Synchronization*:
-   
+   ![image](https://github.com/JyothiNarsini/SE23MAID012_2/assets/88646255/d77eca97-3f53-49bf-a062-3d1d1d41f059)
+
    
 
 ## Conclusion
